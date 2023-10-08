@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PANCHEVMATEY
-- 👀 I’m interested in AWS, and Pythn
+- 👀 I’m interested in AWS, and Python
 - 🌱 I’m currently learning how to deploy infrastructure through Terraform
 - 💞️ I’m looking to collaborate on projects regarding AWS services
 - 📫 How to reach me -> DM
